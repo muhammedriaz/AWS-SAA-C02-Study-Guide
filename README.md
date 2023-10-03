@@ -215,7 +215,7 @@ IAM Policies are separated from the other entities above because they are not an
 
 ### IAM Security Tools:
    **IAM Access Advisor(user level)**
--  Acess advisor shows service permissions granted to a user and when those services were last accessed.
+-  Access advisor shows service permissions granted to a user and when those services were last accessed.
 -  You can use this information to revise your policies.
 
   **IAM Credentials Report(account level)**
